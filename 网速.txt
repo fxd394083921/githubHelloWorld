@@ -1,0 +1,1 @@
+系统自动弹出“注册表编辑器”，按照顺序依次打开以下选项“HKEY_LOCAL_MACHINE\System\CurrenControlSet\Services\Tcpip\Parameters”子键； 然后，在窗口右侧选项栏内，找到或新建一个名为“GlobalmaxTcp WindowSize”的DWORD键值项，把数据值数据设为“256960”(十进制)
